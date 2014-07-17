@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="mail/mail.jar"/>
+	<classpathentry kind="lib" path="mail/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="mail/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="mail/lib/imap.jar"/>
+	<classpathentry kind="lib" path="mail/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="mail/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="mail/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="apple/MacWidgets.jar"/>
+	<classpathentry kind="lib" path="apple/forms-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
